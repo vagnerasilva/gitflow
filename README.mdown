@@ -6,6 +6,10 @@ for Vincent Driessen's [branching model](http://nvie.com/git-model "original
 blog post").
 
 
+### How to install directly with script without homebrew
+https://github.com/vagnerasilva/gitflowinstaler
+
+
 Getting started
 ---------------
 For the best introduction to get started with `git flow`, please read Jeff
